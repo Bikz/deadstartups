@@ -1,6 +1,6 @@
-# DeadStartups.com
+# DeadStartups.org
 
-DeadStartups.com is an open-source listings marketplace where people can post their code, IP, branding, etc., of any startup idea they've worked on to find a cash buyer, equity buyer, or another cofounder to join them.
+DeadStartups.org is an open-source listings marketplace where people can post their code, IP, branding, etc., of any startup idea they've worked on to find a cash buyer, equity buyer, or another cofounder to join them.
 
 ## Features
 
